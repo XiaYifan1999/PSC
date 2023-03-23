@@ -3,6 +3,8 @@ Demo of a feature matching method.
 
 Code implementation of our ISPRS paper 'Robust feature matching via progressive smoothness consensus'.
 
+
+If it is helpful to your work, please cite:
 ```
 @article{xia2023robust,
  title={Robust feature matching via progressive smoothness consensus},
